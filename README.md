@@ -47,4 +47,4 @@ $ make sync EXTRA_OPTS=--doit
 - https://medium.com/devlan-io/octodns-github-actions-cloudflare-digital-ocean-redundant-multi-cloud-dns-hosting-for-free-134acdcc4f03
 - https://blog.cloudflare.com/improving-the-resiliency-of-our-infrastructure-dns-zone/
 - https://hn.mrugesh.dev/dns-how-to-split-configuration-across-multiple-dns-providers
-
+- https://qiita.com/teckl/items/040d2bb217be9a28fa9d

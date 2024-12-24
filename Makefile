@@ -1,8 +1,6 @@
 # Variables
 CONFIG_FILE := config.yaml
 ZONE := example.com.
-#ZONE := teckl.xyz.
-#ZONE := teckl.org.
 include ./env/.env
 export
 EXTRA_OPTS :=
