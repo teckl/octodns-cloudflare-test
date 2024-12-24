@@ -1,0 +1,25 @@
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+### Vim ###
+# swap
+.sw[a-p]
+.*.sw[a-p]
+
+
+### octoDNS ###
+env/.env
+env/lib/
+env/bin/
+env/pyvenv.cfg
+env/lib64
+venv
+venv/
